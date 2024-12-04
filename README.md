@@ -1,3 +1,4 @@
+![WebScrapping_Image](https://github.com/Sahash-Rai/Webscraper-To-Sqlite/blob/main/Asset/webscrapping_image.png)
 # 📚 Book Scraping and Database Storage
 
 Welcome to the **Book Scraping and Database Storage** project! This project scrapes book data from [Books to Scrape](https://books.toscrape.com/), stores the information in a **SQLite** database, and provides a simple, clean interface to inspect the data. This project is a great starting point for learning web scraping with Python, and I have completed it as a beginner.
