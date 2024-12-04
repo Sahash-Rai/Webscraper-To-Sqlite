@@ -1,18 +1,16 @@
 # 📚 Book Scraping and Database Storage
 
-Welcome to the **Book Scraping and Database Storage** project! This project scrapes book data from [Books to Scrape](https://books.toscrape.com/), stores the information in a **SQLite** database, and provides a simple, clean interface to inspect the data. If you're looking to scrape books for a project or just want to learn how to use web scraping with Python, this is the perfect starting point.
-
+Welcome to the **Book Scraping and Database Storage** project! This project scrapes book data from [Books to Scrape](https://books.toscrape.com/), stores the information in a **SQLite** database, and provides a simple, clean interface to inspect the data. This project is a great starting point for learning web scraping with Python, and I have completed it as a beginner.
 ---
 
 ## 🚀 Project Overview
 
-This project scrapes details such as the title, price, and URL of books from the **Books to Scrape** website and stores them in an **SQLite** database. You can easily expand this project by adding more scraping features, including pagination or even exporting the data to CSV or JSON formats.
-
+This project scrapes details such as the title, price, and URL of books from the **Books to Scrape** website and stores them in an **SQLite** database. 
 ### Key Features:
 
 - **Web Scraping**: Scrape top books with basic details like title, price, and URL.
 - **SQLite Database**: Store and manage scraped data in a local SQLite database.
-- **Easy Export**: Data is easily accessible and can be exported as needed.
+
 
 ---
 
@@ -32,17 +30,17 @@ This project scrapes details such as the title, price, and URL of books from the
 
 git clone https://github.com/Sahash-Rai/Webscraper-To-Sqlite.git
 
-## 2. Set up a virtual environment:
+### 2. Set up a virtual environment:
 
 For macOS:
 
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv myenv
+source myenv/bin/activate
 
 For Windows:
 
-python -m venv venv
-.\venv\Scripts\activate
+python -m venv myenv
+.\myvenv\Scripts\activate
 ### 3. Install the required dependencies:
 
 pip install -r requirements.txt
