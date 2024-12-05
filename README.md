@@ -45,6 +45,7 @@ python -m venv myenv
 ### 3. Install the required dependencies:
 
 pip install -r requirements.txt
+
 🏃‍♂️ Running the Project
 To start the web scraping process, simply run the main script.
 
