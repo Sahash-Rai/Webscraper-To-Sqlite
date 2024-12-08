@@ -20,7 +20,6 @@ This project scrapes details such as the title, price, and URL of books from the
 - **Python 3.x** – Programming language
 - **BeautifulSoup** – For parsing HTML and scraping data
 - **Requests** – For making HTTP requests
-- **SQLAlchemy** – For handling database operations
 - **SQLite** – A lightweight database for storing scraped data
 
 ---
